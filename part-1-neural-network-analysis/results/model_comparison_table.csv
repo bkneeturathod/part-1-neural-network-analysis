@@ -1,0 +1,4 @@
+﻿"Experiment,Hidden Layers,Activation,Epochs,Accuracy"
+"Experiment 1,""(16,8)"",relu,200,0.9825"
+"Experiment 2,""(32,16)"",relu,300,0.975"
+"Experiment 3,""(64,32)"",tanh,300,0.9725"
